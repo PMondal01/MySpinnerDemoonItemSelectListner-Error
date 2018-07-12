@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MySpinnerDemo(onItemSelectListner)</string>
+
+    <string-array name="country_name">
+
+
+        <item>abkhazia</item>
+        <item>afghanistan</item>
+        <item>aland-islands</item>
+        <item>albania</item>
+
+        <item>algeria</item>
+        <item>american-samoa</item>
+        <item>andorra</item>
+        <item>angola</item>
+    </string-array>
+
+    <string-array name="population">
+
+
+        <item>10 core</item>
+        <item>20 core</item>
+        <item>30 core</item>
+        <item>40 core</item>
+        <item>50 core</item>
+        <item>60 core</item>
+        <item>70 core</item>
+        <item>80 core</item>
+    </string-array>
+
+</resources>
